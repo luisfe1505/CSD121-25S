@@ -1,10 +1,10 @@
-package tictactoe;
+package lab5;
 
-import tictactoe.game.TicTacToeGame;
-import tictactoe.ui.Console;
+import lab5.game.TicTacToeGame;
+import lab5.ui.Console;
 
-import static tictactoe.game.PlayerToken.O;
-import static tictactoe.game.PlayerToken.X;
+import static lab5.game.PlayerToken.O;
+import static lab5.game.PlayerToken.X;
 
 public class Main {
 
@@ -15,6 +15,7 @@ public class Main {
                 Players can be human or computer.  When prompted for player names use one of the following:
                 - To play as a human, just enter a name
                 - To have the player played by the computer enter @ followed by one of the following names:
+                -Randy
                   - TODO: Add the names of the computer players you have implemented here!
                 """);
         var player1 = Console.promptForPlayer(X);
