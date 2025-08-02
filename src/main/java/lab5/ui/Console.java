@@ -1,8 +1,8 @@
-package tictactoe.ui;
+package lab5.ui;
 
 import com.diogonunes.jcolor.AnsiFormat;
-import tictactoe.game.*;
-import tictactoe.players.*;
+import lab5.game.*;
+import lab5.players.*;
 
 import java.util.Scanner;
 
