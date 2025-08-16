@@ -1,0 +1,1 @@
+I didn't use AI for this job, just to get some syntax and an idea for writing the tests.
